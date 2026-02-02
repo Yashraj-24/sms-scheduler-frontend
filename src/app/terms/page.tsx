@@ -65,7 +65,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-xl font-semibold text-gray-800 mb-4">7. Contact Information</h2>
             <p className="text-gray-600">
-              For any questions about these Terms of Service, please contact us at <a href="mailto:sarthak.vitmal.dev@gmail.com" className="text-blue-600 hover:underline">sarthak.vitmal.dev@gmail.com</a>.
+              For any questions about these Terms of Service, please contact us at <a href="mailto:yashrajchoudhary24@gmail.com" className="text-blue-600 hover:underline">yashrajchoudhary24@gmail.com</a>.
             </p>
           </section>
         </div>

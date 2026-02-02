@@ -58,7 +58,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-xl font-semibold text-gray-800 mb-4">6. Contact Us</h2>
             <p className="text-gray-600">
-              If you have any questions about this Privacy Policy, please contact us at <a href="mailto:sarthak.vitmal.dev@gmail.com" className="text-blue-600 hover:underline">sarthak.vitmal.dev@gmail.com</a>.
+              If you have any questions about this Privacy Policy, please contact us at <a href="mailto:yashrajchoudhary24@gmail.com" className="text-blue-600 hover:underline">yashrajchoudhary24@gmail.com</a>.
             </p>
           </section>
         </div>
